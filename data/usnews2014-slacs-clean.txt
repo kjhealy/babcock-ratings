@@ -1,0 +1,52 @@
+Rank,School,Location,PubPriv,Tuition,Enrollment,Acceptance,Retention,Graduation
+1,Williams College,Williamstown MA,Private,46600,2106,17.0,97,96
+2,Amherst College,Amherst MA,Private,46574,1817,13.0,98,95
+3,Swarthmore College,Swarthmore PA,Private,44718,1552,14.2,97,92
+4,Bowdoin College,Brunswick ME,Private,45446,1839,15.8,96,95
+4,Middlebury College,Middlebury VT,Private,45314,2516,17.2,96,94
+4,Pomona College,Claremont CA,Private,43580,1607,13.0,98,96
+7,Carleton College,Northfield MN,Private,46167,2055,25.6,97,94
+7,Wellesley College,Wellesley MA,Private,43554,2481,30.1,96,92
+9,Claremont McKenna College,Claremont CA,Private,45625,1295,13.6,95,92
+9,Davidson College,Davidson NC,Private,42849,1790,24.8,97,93
+9,Haverford College,Haverford PA,Private,45426,1205,22.9,96,93
+12,United States Naval Academy,Annapolis MD,Private,0,4536,6.8,97,87
+13,Vassar College,Poughkeepsie NY,Private,47890,2406,22.8,97,91
+14,Hamilton College,Clinton NY,Private,46080,1884,27.2,95,91
+14,Washington and Lee University,Lexington VA,Private,44507,2302,19.5,94,90
+16,Harvey Mudd College,Claremont CA,Private,46509,783,19.2,98,88
+17,Grinnell College,Grinnell IA,Private,43656,1674,36.3,94,90
+17,United States Military Academy,West Point NY,Private,0,4592,9.0,94,83
+17,Wesleyan University,Middletown CT,Private,46944,3262,20.9,96,91
+20,Colgate University,Hamilton NY,Private,46380,2886,29.4,95,90
+20,Smith College,Northampton MA,Private,43114,3212,42.4,92,85
+22,Bates College,Lewiston ME,Private,45650,1753,26.6,94,88
+22,Colby College,Waterville ME,Private,45760,1863,29.0,95,90
+24,Macalester College,St. Paul MN,Private,45388,2070,36.7,95,90
+25,College of the Holy Cross,Worcester MA,Private,44272,2926,33.5,95,93
+25,Oberlin College,Oberlin OH,Private,46870,2944,31.3,94,85
+25,Scripps College,Claremont CA,Private,45564,962,32.4,92,90
+25,United States Air Force Academy,USAF Academy CO,Private,0,4120,9.9,90,80
+25,University of Richmond,Richmond VA,Private,45320,3626,30.3,93,83
+30,Bryn Mawr College,Bryn Mawr PA,Private,43900,1774,41.4,92,82
+31,Colorado College,Colorado Springs CO,Private,44222,2026,23.0,95,90
+32,Barnard College,New York NY,Private,44790,2504,22.6,95,90
+32,Bucknell University,Lewisburg PA,Private,46902,3618,27.0,94,90
+32,Kenyon College,Gambier OH,Private,45640,1667,36.0,93,90
+35,Pitzer College,Claremont CA,Private,43402,1084,15.7,92,87
+36,Lafayette College,Easton PA,Private,43970,2488,34.5,95,91
+36,Trinity College,Hartford CT,Private,47510,2387,33.7,91,83
+38,Bard College,Annandale on Hudson NY,Private,46370,2322,35.2,88,79
+38,Mount Holyoke College,South Hadley MA,Private,41456,2344,42.1,91,81
+38,Sewanee—​University of the South,Sewanee TN,Private,35756,1557,58.8,88,78
+41,Occidental College,Los Angeles CA,Private,46270,2178,39.4,92,84
+41,Soka University of America,Aliso Viejo CA,Private,29092,438,45.8,95,92
+41,Union College,Schenectady NY,Private,46785,2241,38.2,93,83
+41,Whitman College,Walla Walla WA,Private,43500,1539,48.6,94,87
+45,Connecticut College,New London CT,Private,46085,1933,35.9,90,85
+45,Dickinson College,Carlisle PA,Private,46094,2386,40.2,91,85
+45,Franklin and Marshall College,Lancaster PA,Private,46285,2365,39.3,93,83
+45,Skidmore College,Saratoga Springs NY,Private,45724,2689,41.9,94,88
+49,Centre College,Danville KY,Private,36000,1344,69.6,91,87
+50,Denison University,Granville OH,Private,43910,2336,49.5,90,86
+50,Gettysburg College,Gettysburg PA,Private,45870,2597,40.3,91,84,

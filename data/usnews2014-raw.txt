@@ -1,0 +1,206 @@
+1	Princeton University Princeton, NJ$40,170 	 8,010 	 7.9% 	 98% 	 96% 	
+2	Harvard University Cambridge, MA$42,292 	 19,726 	 6.1% 	 98% 	 97% 	
+3	Yale University New Haven, CT$44,000 	 11,906 	 7.1% 	 99% 	 96% 	
+4	Columbia University New York, NY$49,138 	 23,168 	 7.4% 	 99% 	 97% 	
+5	Stanford University Stanford, CA$43,245 	 18,217 	 6.6% 	 98% 	 95% 	
+5	University of Chicago Chicago, IL$46,386 	 12,508 	 13.2% 	 99% 	 92% 	
+7	Duke University Durham, NC$45,476 	 15,386 	 13.4% 	 97% 	 95% 	
+7	Massachusetts Institute of Technology Cambridge, MA$43,498 	 11,189 	 9.0% 	 97% 	 93% 	
+7	University of Pennsylvania Philadelphia, PA$45,890 	 21,339 	 12.6% 	 98% 	 96% 	
+10	California Institute of Technology Pasadena, CA$41,538 	 2,243 	 11.8% 	 98% 	 92% 	
+10	Dartmouth College Hanover, NH$46,752 	 6,277 	 9.8% 	 98% 	 96% 	
+12	Johns Hopkins University Baltimore, MD$45,470 	 21,001 	 17.7% 	 97% 	 94% 	
+12	Northwestern University Evanston, IL$45,527 	 20,439 	 15.3% 	 97% 	 93% 	
+14	Brown University Providence, RI$45,612 	 8,885 	 9.6% 	 98% 	 95% 	
+14	Washington University in St. LouisSt. Louis, MO$44,841 	 13,952 	 17.9% 	 97% 	 94% 	
+16	Cornell University Ithaca, NY$45,359 	 21,424 	 16.6% 	 96% 	 93% 	
+17	Vanderbilt University Nashville, TN$42,978 	 12,710 	 14.2% 	 96% 	 92% 	
+18	Rice University Houston, TX$38,941 	 6,484 	 16.7% 	 96% 	 92% 	
+18	University of Notre Dame Notre Dame, IN$44,605 	 12,126 	 23.3% 	 98% 	 95% 	
+20	Emory University Atlanta, GA$44,008 	 14,236 	 26.3% 	 95% 	 90% 	
+20	Georgetown University Washington, DC$44,805 	 17,357 	 17.0% 	 96% 	 93% 	
+20	University of California—​Berkeley Berkeley, CAin-state: $12,864, out-of-state: $35,742 	 35,899 	 18.0% 	 97% 	 91% 	
+23	Carnegie Mellon University Pittsburgh, PA$46,962 	 12,569 	 27.8% 	 96% 	 87% 	
+23	University of California—​Los Angeles Los Angeles, CAin-state: $12,696, out-of-state: $35,574 	 41,341 	 22.0% 	 97% 	 92% 	
+23	University of Southern California Los Angeles, CA$46,298 	 39,958 	 19.9% 	 97% 	 90% 	
+23	University of Virginia Charlottesville, VAin-state: $12,458, out-of-state: $39,844 	 23,907 	 29.6% 	 97% 	 93% 	
+23	Wake Forest University Winston-Salem, NC$44,742 	 7,432 	 34.0% 	 94% 	 87% 	
+28	Tufts University Medford, MA$46,598 	 10,837 	 21.4% 	 96% 	 92% 	
+28	University of Michigan—​Ann Arbor Ann Arbor, MIin-state: $13,819, out-of-state: $40,496 	 43,426 	 36.6% 	 96% 	 91% 	
+30	University of North Carolina—​Chapel Hill Chapel Hill, NCin-state: $8,340, out-of-state: $30,122 	 29,278 	 27.6% 	 97% 	 89% 	
+31	Boston College Chestnut Hill, MA$45,622 	 13,783 	 28.8% 	 95% 	 92% 	
+32	Brandeis University Waltham, MA$46,106 	 5,808 	 39.1% 	 94% 	 90% 	
+32	College of William and Mary Williamsburg, VAin-state: $15,464, out-of-state: $37,852 	 8,258 	 32.2% 	 95% 	 90% 	
+32	New York University New York, NY$44,848 	 44,516 	 35.0% 	 92% 	 85% 	
+32	University of Rochester Rochester, NY$45,372 	 10,510 	 35.3% 	 96% 	 85% 	
+36	Georgia Institute of Technology Atlanta, GAin-state: $10,650, out-of-state: $29,954 	 21,557 	 54.9% 	 94% 	 79% 	
+37	Case Western Reserve University Cleveland, OH$41,800 	 10,026 	 54.3% 	 92% 	 78% 	
+37	Pennsylvania State University—​University Park University Park, PAin-state: $16,992, out-of-state: $29,566 	 45,783 	 54.2% 	 92% 	 86% 	
+39	University of California—​Davis Davis, CAin-state: $13,896, out-of-state: $36,774 	 32,354 	 45.7% 	 92% 	 85% 	
+39	University of California—​San Diego La Jolla, CAin-state: $13,234, out-of-state: $36,112 	 28,294 	 37.8% 	 95% 	 86% 	
+41	Boston University Boston, MA$44,910 	 32,603 	 45.6% 	 91% 	 84% 	
+41	Lehigh University Bethlehem, PA$43,520 	 7,080 	 32.6% 	 94% 	 88% 	
+41	Rensselaer Polytechnic Institute Troy, NY$46,269 	 6,999 	 43.6% 	 92% 	 84% 	
+41	University of California—​Santa Barbara Santa Barbara, CAin-state: $13,746, out-of-state: $36,624 	 21,927 	 44.0% 	 91% 	 86% 	
+41	University of Illinois—​Urbana-​Champaign Champaign, ILin-state: $15,258, out-of-state: $29,640 	 44,520 	 63.3% 	 94% 	 84% 	
+41	University of Wisconsin—​Madison Madison, WIin-state: $10,403, out-of-state: $26,653 	 42,820 	 54.6% 	 95% 	 83% 	
+47	University of Miami Coral Gables, FL$42,852 	 16,172 	 39.7% 	 91% 	 81% 	
+47	Yeshiva University New York, NY$37,600 	 6,753 	 84.0% 	 91% 	 89% 	
+49	Northeastern University Boston, MA$41,686 	 20,447 	 31.9% 	 94% 	 79% 	
+49	University of California—​Irvine Irvine, CAin-state: $14,688, out-of-state: $37,566 	 27,479 	 42.4% 	 94% 	 86% 	
+49	University of Florida Gainesville, FLin-state: $6,263, out-of-state: $28,541 	 49,913 	 44.1% 	 96% 	 85% 	
+52	George Washington University Washington, DC$47,343 	 25,653 	 33.1% 	 93% 	 80% 	
+52	Ohio State University—​Columbus Columbus, OHin-state: $10,037, out-of-state: $25,757 	 56,387 	 64.0% 	 93% 	 82% 	
+52	Tulane University New Orleans, LA$46,930 	 13,486 	 27.3% 	 90% 	 75% 	
+52	University of Texas—​Austin Austin, TXin-state: $9,790, out-of-state: $33,824 	 52,186 	 46.8% 	 92% 	 79% 	
+52	University of WashingtonSeattle, WAin-state: $12,383, out-of-state: $29,938 	 42,568 	 59.2% 	 93% 	 80% 	
+57	Fordham University New York, NY$43,577 	 15,170 	 42.9% 	 89% 	 81% 	
+57	Pepperdine University Malibu, CA$44,902 	 7,319 	 38.5% 	 91% 	 81% 	
+57	University of ConnecticutStorrs, CTin-state: $12,022, out-of-state: $30,970 	 25,483 	 44.7% 	 93% 	 82% 	
+60	Southern Methodist University Dallas, TX$43,800 	 10,893 	 53.8% 	 89% 	 79% 	
+60	University of Georgia Athens, GAin-state: $10,262, out-of-state: $28,472 	 34,519 	 56.1% 	 94% 	 82% 	
+62	Brigham Young University—​Provo Provo, UT$4,850 	 34,409 	 54.9% 	 86% 	 77% 	
+62	Clemson University Clemson, SCin-state: $13,382, out-of-state: $30,816 	 20,768 	 57.9% 	 90% 	 82% 	
+62	Syracuse University Syracuse, NY$40,458 	 21,029 	 51.3% 	 92% 	 82% 	
+62	University of Maryland—​College Park College Park, MDin-state: $9,162, out-of-state: $28,348 	 37,197 	 46.8% 	 94% 	 82% 	
+62	University of Pittsburgh Pittsburgh, PAin-state: $17,100, out-of-state: $27,106 	 28,769 	 56.1% 	 92% 	 79% 	
+62	Worcester Polytechnic Institute Worcester, MA$42,778 	 5,957 	 52.6% 	 95% 	 84% 	
+68	Purdue University—​West Lafayette West Lafayette, INin-state: $9,992, out-of-state: $28,794 	 39,256 	 61.3% 	 89% 	 70% 	
+69	Rutgers, the State University of New Jersey—​New Brunswick Piscataway, NJin-state: $13,499, out-of-state: $27,523 	 40,434 	 60.9% 	 92% 	 79% 	
+69	Texas A&M University—​College Station College Station, TXin-state: $8,506, out-of-state: $25,126 	 50,227 	 67.1% 	 92% 	 80% 	
+69	University of Minnesota—​Twin Cities Minneapolis, MNin-state: $13,555, out-of-state: $19,805 	 51,853 	 49.5% 	 90% 	 73% 	
+69	Virginia Tech Blacksburg, VAin-state: $10,930, out-of-state: $25,320 	 31,087 	 70.4% 	 92% 	 83% 	
+73	Michigan State University East Lansing, MIin-state: $12,863, out-of-state: $33,750 	 48,906 	 70.6% 	 91% 	 79% 	
+73	University of Iowa Iowa City, IAin-state: $8,061, out-of-state: $26,931 	 30,119 	 78.4% 	 85% 	 70% 	
+75	American University Washington, DC$40,649 	 12,904 	 44.2% 	 90% 	 77% 	
+75	Baylor University Waco, TX$35,972 	 15,364 	 60.7% 	 85% 	 75% 	
+75	Clark University Worcester, MA$39,550 	 3,503 	 70.1% 	 89% 	 80% 	
+75	Indiana University—​Bloomington Bloomington, INin-state: $10,209, out-of-state: $32,350 	 42,133 	 74.4% 	 89% 	 75% 	
+75	Marquette University Milwaukee, WI$34,640 	 11,749 	 55.2% 	 89% 	 80% 	
+75	Miami University—​Oxford Oxford, OHin-state: $13,799, out-of-state: $29,589 	 17,683 	 72.8% 	 89% 	 80% 	
+75	University of Delaware Newark, DEin-state: $12,112, out-of-state: $29,932 	 21,081 	 56.6% 	 92% 	 80% 	
+82	Stevens Institute of Technology Hoboken, NJ$43,561 	 5,649 	 42.7% 	 92% 	 78% 	
+82	Stony Brook University—​SUNY Stony Brook, NYin-state: $7,984, out-of-state: $19,924 	 24,149 	 40.1% 	 90% 	 70% 	
+82	Texas Christian University Fort Worth, TX$36,590 	 9,727 	 40.9% 	 87% 	 75% 	
+82	University of Vermont Burlington, VTin-state: $15,718, out-of-state: $36,646 	 13,097 	 76.7% 	 86% 	 76% 	
+86	SUNY College of Environmental Science and Forestry Syracuse, NYin-state: $6,995, out-of-state: $16,445 	 2,401 	 50.7% 	 85% 	 67% 	
+86	University of Alabama Tuscaloosa, ALin-state: $9,200, out-of-state: $22,950 	 33,503 	 53.1% 	 85% 	 67% 	
+86	University of California—​Santa Cruz Santa Cruz, CAin-state: $13,416, out-of-state: $36,294 	 17,404 	 60.9% 	 90% 	 77% 	
+86	University of Colorado—​Boulder Boulder, COin-state: $10,240, out-of-state: $32,008 	 31,725 	 83.6% 	 84% 	 68% 	
+86	University of Tulsa Tulsa, OK$33,702 	 4,326 	 40.7% 	 87% 	 66% 	
+91	Auburn University Auburn University, ALin-state: $9,852, out-of-state: $26,364 	 25,134 	 77.2% 	 88% 	 68% 	
+91	Colorado School of Mines Golden, COin-state: $16,485, out-of-state: $32,415 	 5,632 	 37.4% 	 89% 	 66% 	
+91	Florida State University Tallahassee, FLin-state: $6,537, out-of-state: $21,703 	 40,695 	 53.7% 	 92% 	 75% 	
+91	University of Denver Denver, CO$40,707 	 11,656 	 67.6% 	 87% 	 76% 	
+91	University of Massachusetts—​Amherst Amherst, MAin-state: $13,258, out-of-state: $27,974 	 28,236 	 62.6% 	 88% 	 70% 	
+91	University of San Diego San Diego, CA$41,392 	 8,105 	 42.6% 	 88% 	 76% 	
+97	Binghamton University—​SUNY Binghamton, NYin-state: $8,144, out-of-state: $18,464 	 15,308 	 42.9% 	 91% 	 79% 	
+97	Drexel University Philadelphia, PA$37,505 	 18,067 	 74.9% 	 84% 	 65% 	
+97	University of Missouri Columbia, MOin-state: $9,415, out-of-state: $23,764 	 34,748 	 81.5% 	 85% 	 71% 	
+97	University of New Hampshire Durham, NHin-state: $16,496, out-of-state: $29,216 	 15,301 	 77.9% 	 87% 	 77% 	
+101	Iowa State University Ames, IAin-state: $7,726, out-of-state: $20,278 	 30,748 	 82.5% 	 86% 	 71% 	
+101	Loyola University Chicago Chicago, IL$35,503 	 15,720 	 81.2% 	 86% 	 70% 	
+101	North Carolina State University—​Raleigh Raleigh, NCin-state: $8,206, out-of-state: $21,661 	 34,340 	 49.6% 	 91% 	 71% 	
+101	St. Louis University St. Louis, MO$36,726 	 13,981 	 63.7% 	 86% 	 70% 	
+101	University of Kansas Lawrence, KSin-state: $10,107, out-of-state: $24,873 	 27,135 	 92.3% 	 79% 	 64% 	
+101	University of Nebraska—​Lincoln Lincoln, NEin-state: $8,068, out-of-state: $20,968 	 24,207 	 64.4% 	 84% 	 65% 	
+101	University of Oklahoma Norman, OKin-state: $7,341, out-of-state: $19,530 	 31,086 	 79.1% 	 84% 	 66% 	
+101	University of Tennessee Knoxville, TNin-state: $9,684, out-of-state: $27,874 	 29,833 	 67.3% 	 85% 	 66% 	
+109	Illinois Institute of Technology Chicago, IL$39,842 	 7,683 	 55.0% 	 93% 	 68% 	
+109	University at Buffalo—​SUNY Buffalo, NYin-state: $7,989, out-of-state: $18,609 	 28,952 	 56.9% 	 88% 	 70% 	
+109	University of Oregon Eugene, ORin-state: $9,763, out-of-state: $29,788 	 24,518 	 74.2% 	 85% 	 68% 	
+112	University of California—​Riverside Riverside, CAin-state: $12,960, out-of-state: $35,838 	 21,005 	 62.7% 	 87% 	 70% 	
+112	University of Dayton Dayton, OH$35,800 	 11,159 	 55.2% 	 87% 	 78% 	
+112	University of South Carolina Columbia, SCin-state: $10,816, out-of-state: $28,528 	 31,288 	 60.6% 	 87% 	 72% 	
+112	University of St. Thomas St. Paul, MN$34,013 	 10,316 	 86.7% 	 88% 	 74% 	
+112	University of the PacificStockton, CA$39,810 	 6,652 	 37.8% 	 85% 	 63% 	
+117	Michigan Technological University Houghton, MIin-state: $13,728, out-of-state: $28,608 	 6,947 	 76.6% 	 83% 	 66% 	
+117	University of San Francisco San Francisco, CA$40,294 	 10,017 	 69.2% 	 85% 	 67% 	
+119	University of Arizona Tucson, AZin-state: $10,391, out-of-state: $27,073 	 40,223 	 76.9% 	 78% 	 61% 	
+119	University of Kentucky Lexington, KYin-state: $10,110, out-of-state: $21,192 	 28,034 	 67.3% 	 81% 	 58% 	
+121	The Catholic University of America Washington, DC$38,526 	 6,838 	 63.2% 	 81% 	 67% 	
+121	Clarkson University Potsdam, NY$40,610 	 3,604 	 76.1% 	 87% 	 71% 	
+121	Colorado State University Fort Collins, COin-state: $9,313, out-of-state: $25,166 	 30,647 	 74.7% 	 84% 	 63% 	
+121	DePaul University Chicago, IL$33,990 	 24,966 	 62.3% 	 86% 	 68% 	
+121	Duquesne University Pittsburgh, PA$31,385 	 9,956 	 74.7% 	 87% 	 74% 	
+121	Temple University Philadelphia, PAin-state: $14,340, out-of-state: $24,710 	 36,744 	 67.2% 	 88% 	 66% 	
+121	University of Utah Salt Lake City, UTin-state: $7,534, out-of-state: $24,018 	 32,388 	 82.6% 	 86% 	 59% 	
+128	Missouri University of Science & Technology Rolla, MOin-state: $9,510, out-of-state: $24,675 	 7,647 	 89.6% 	 85% 	 65% 	
+128	Polytechnic Institute of New York University Brooklyn, NY$41,328 	 4,652 	 62.1% 	 86% 	 62% 	
+128	Seton Hall University South Orange, NJ$35,820 	 9,830 	 84.4% 	 82% 	 67% 	
+128	University at Albany—​SUNY Albany, NYin-state: $8,140, out-of-state: $18,460 	 17,316 	 55.5% 	 85% 	 64% 	
+128	University of Arkansas Fayetteville, ARin-state: $7,818, out-of-state: $19,074 	 24,537 	 63.5% 	 83% 	 60% 	
+128	University of Illinois—​Chicago Chicago, ILin-state: $13,406, out-of-state: $25,796 	 27,875 	 63.9% 	 80% 	 58% 	
+128	Washington State University Pullman, WAin-state: $12,545, out-of-state: $25,889 	 27,679 	 76.0% 	 83% 	 67% 	
+135	Hofstra University Hempstead, NY$37,400 	 11,023 	 58.7% 	 78% 	 61% 	
+135	Kansas State University Manhattan, KSin-state: $8,585, out-of-state: $21,530 	 24,378 	 99.0% 	 81% 	 58% 	
+135	Louisiana State University—​Baton Rouge Baton Rouge, LAin-state: $7,873, out-of-state: $25,790 	 30,225 	 76.2% 	 84% 	 67% 	
+135	New School New York, NY$40,928 	 10,575 	 65.0% 	 81% 	 65% 	
+135	Ohio University Athens, OHin-state: $10,380, out-of-state: $19,344 	 27,402 	 77.7% 	 81% 	 64% 	
+135	University of Cincinnati Cincinnati, OHin-state: $10,784, out-of-state: $25,816 	 31,798 	 67.1% 	 85% 	 62% 	
+141	George Mason University Fairfax, VAin-state: $9,908, out-of-state: $28,592 	 32,961 	 65.8% 	 86% 	 66% 	
+142	Arizona State University Tempe, AZin-state: $10,002, out-of-state: $23,654 	 73,378 	 87.9% 	 82% 	 57% 	
+142	Howard University 1Washington, DC$22,683 	 N/A 	 53.9% 4	 82% 8	 65% 6	
+142	Mississippi State University Mississippi State, MSin-state: $6,722, out-of-state: $16,960 	 20,365 	 69.3% 	 82% 	 60% 6	
+142	Oklahoma State University Stillwater, OKin-state: $7,441, out-of-state: $20,026 	 25,544 	 77.6% 	 79% 	 62% 	
+142	Oregon State University Corvallis, ORin-state: $8,538, out-of-state: $23,469 	 26,393 	 78.8% 	 83% 	 60% 	
+142	Rutgers, the State University of New Jersey—​Newark Newark, NJin-state: $12,998, out-of-state: $27,022 	 12,011 	 57.5% 	 86% 	 61% 	
+142	St. John Fisher CollegeRochester, NY$28,430 	 4,008 	 64.2% 	 83% 	 75% 	
+142	University of Texas—​Dallas Richardson, TXin-state: $11,806, out-of-state: $30,378 	 19,727 	 52.0% 	 84% 	 64% 	
+150	New Jersey Institute of Technology Newark, NJin-state: $15,140, out-of-state: $27,840 	 9,944 	 63.7% 	 82% 	 54% 	
+150	University of Mississippi University, MSin-state: $6,760, out-of-state: $17,728 	 18,794 	 61.1% 	 82% 	 58% 	
+152	Adelphi University Garden City, NY$30,800 	 7,859 	 66.5% 	 81% 	 66% 	
+152	Illinois State University Normal, ILin-state: $12,573, out-of-state: $20,013 	 20,706 	 74.0% 	 84% 	 71% 	
+152	San Diego State University San Diego, CAin-state: $6,578, out-of-state: $17,738 	 31,597 	 31.3% 	 86% 	 67% 	
+152	St. John's University Queens, NY$37,260 	 21,087 	 53.2% 	 78% 	 59% 	
+152	University of Alabama—​Birmingham Birmingham, ALin-state: $8,904, out-of-state: $20,394 	 17,999 	 73.4% 	 80% 	 48% 	
+152	University of Rhode Island Kingston, RIin-state: $12,450, out-of-state: $28,016 	 16,451 	 76.9% 	 81% 	 63% 	
+158	University of Hawaii—​Manoa Honolulu, HIin-state: $9,904, out-of-state: $27,472 	 20,426 	 81.2% 	 79% 	 56% 	
+158	University of Maryland—​Baltimore County Baltimore, MDin-state: $10,068, out-of-state: $21,642 	 13,637 	 60.4% 	 85% 	 61% 	
+158	University of Massachusetts—​LowellLowell, MAin-state: $12,097, out-of-state: $19,210 	 16,294 	 65.8% 	 80% 	 54% 	
+161	Maryville University of St. Louis St Louis, MO$25,002 	 4,203 	 71.3% 	 84% 	 70% 	
+161	Texas Tech University Lubbock, TXin-state: $8,942, out-of-state: $19,562 	 32,467 	 64.3% 	 82% 	 62% 	
+161	University of Idaho Moscow, IDin-state: $6,524, out-of-state: $19,600 	 12,420 	 65.7% 	 79% 	 56% 	
+161	University of La Verne La Verne, CA$35,000 	 4,973 	 39.0% 	 83% 	 59% 	
+161	University of Louisville Louisville, KYin-state: $9,750, out-of-state: $23,638 	 21,242 	 76.3% 	 78% 	 52% 	
+161	University of Wyoming Laramie, WYin-state: $4,404, out-of-state: $14,124 	 12,903 	 95.7% 	 74% 	 54% 	
+167	Florida Institute of Technology Melbourne, FL$36,020 	 5,384 	 59.1% 	 77% 	 55% 	
+167	University of Maine Orono, MEin-state: $10,594, out-of-state: $27,454 	 10,901 	 81.1% 	 78% 	 59% 	
+167	Virginia Commonwealth University Richmond, VAin-state: $12,002, out-of-state: $28,861 	 31,752 	 60.2% 	 85% 	 57% 	
+170	University of Central Florida Orlando, FLin-state: $6,317, out-of-state: $22,415 	 59,767 	 46.2% 	 87% 	 65% 	
+170	University of South Florida Tampa, FLin-state: $6,410, out-of-state: $17,325 	 40,111 	 43.2% 	 88% 	 57% 	
+170	West Virginia University Morgantown, WVin-state: $6,456, out-of-state: $19,632 	 29,707 	 85.1% 	 79% 	 56% 	
+173	Azusa Pacific University Azusa, CA$32,256 	 10,184 	 52.3% 	 85% 	 63% 	
+173	Pace University New York, NY$38,069 	 12,772 	 76.8% 	 78% 	 58% 	
+173	St. Mary's University of Minnesota Winona, MN$29,315 	 5,574 	 79.0% 	 76% 	 62% 	
+173	University of North Dakota Grand Forks, NDin-state: $7,254, out-of-state: $17,170 	 15,250 	 73.7% 	 77% 	 54% 	
+177	Biola University La Mirada, CA$32,142 	 6,302 	 74.7% 	 85% 	 65% 	
+177	Indiana University of Pennsylvania Indiana, PAin-state: $9,080, out-of-state: $19,014 	 15,379 	 61.0% 	 75% 	 50% 	
+177	Northern Illinois University DeKalb, ILin-state: $12,952, out-of-state: $22,024 	 21,869 	 51.8% 	 72% 	 54% 	
+177	Southern Illinois University—​Carbondale Carbondale, ILin-state: $12,104, out-of-state: $24,970 	 18,847 	 51.4% 	 66% 	 50% 	
+181	Andrews University Berrien Springs, MI$25,470 	 3,551 	 37.5% 	 79% 	 59% 	
+181	Ball State UniversityMuncie, INin-state: $9,250, out-of-state: $23,660 	 21,053 	 61.2% 	 79% 	 57% 	
+181	Bowling Green State University Bowling Green, OHin-state: $10,721, out-of-state: $18,029 	 17,286 	 73.6% 	 74% 	 58% 	
+181	East Carolina University Greenville, NCin-state: $5,869, out-of-state: $19,683 	 26,947 	 62.2% 	 80% 	 58% 	
+181	University of Alabama—​Huntsville Huntsville, ALin-state: $9,192, out-of-state: $21,506 	 7,636 	 77.7% 	 77% 	 47% 	
+181	University of Nevada—​Reno Reno, NVin-state: $6,154, out-of-state: $20,064 	 18,227 	 83.0% 	 79% 	 54% 	
+181	University of New Mexico Albuquerque, NMin-state: $7,274, out-of-state: $11,568 	 29,033 	 64.6% 	 77% 	 46% 	
+181	Western Michigan University Kalamazoo, MIin-state: $10,355, out-of-state: $24,109 	 24,598 	 83.3% 	 74% 	 56% 	
+181	Widener University Chester, PA$38,028 	 6,238 	 65.5% 	 72% 	 55% 	
+190	Central Michigan University Mount Pleasant, MIin-state: $11,220, out-of-state: $23,670 	 27,626 	 63.8% 	 77% 	 58% 	
+190	Edgewood College Madison, WI$24,666 	 3,064 	 73.2% 	 78% 	 53% 	
+190	Immaculata University Immaculata, PA$30,740 	 4,117 	 79.6% 	 80% 	 53% 	
+190	Louisiana Tech University Ruston, LAin-state: $7,146, out-of-state: $18,483 	 11,304 	 70.8% 	 76% 	 47% 	
+190	New Mexico State University Las Cruces, NMin-state: $6,220, out-of-state: $19,644 	 17,651 	 80.1% 	 72% 	 44% 	
+190	North Dakota State University Fargo, NDin-state: $7,233, out-of-state: $17,478 	 14,443 	 83.6% 	 78% 	 53% 	
+190	University of Colorado—​Denver Denver, COin-state: $7,494, out-of-state: $21,006 	 22,396 	 75.9% 	 73% 	 45% 	
+190	University of Houston Houston, TXin-state: $10,272, out-of-state: $20,892 	 40,747 	 56.2% 	 81% 	 46% 	
+190	University of North Carolina—​Greensboro Greensboro, NCin-state: $6,388, out-of-state: $20,186 	 18,172 	 60.0% 	 77% 	 54% 	
+190	University of South Dakota Vermillion, SDin-state: $8,022, out-of-state: $10,104 	 10,284 	 88.6% 	 75% 	 51% 	
+190	Utah State University Logan, UTin-state: $6,183, out-of-state: $17,886 	 28,786 	 96.7% 	 72% 	 50% 	
+201	Kent State University Kent, OHin-state: $9,816, out-of-state: $17,776 	 28,172 	 83.0% 	 77% 	 52% 	
+201	Montana State University Bozeman, MTin-state: $6,821, out-of-state: $20,648 	 14,660 	 57.6% 	 74% 	 49% 	
+201	South Dakota State University Brookings, SDin-state: $7,708, out-of-state: $9,790 	 12,583 	 91.7% 	 76% 	 56% 	
+201	University of Missouri—​Kansas City Kansas City, MOin-state: $9,456, out-of-state: $22,203 	 16,019 	 67.6% 	 73% 	 48% 	
+201	University of Montana Missoula, MTin-state: $6,276, out-of-state: $22,470 	 12,479 	 95.4% 	 73% 	 48% 	
+201	University of North Carolina—​Charlotte Charlotte, NCin-state: $6,105, out-of-state: $18,634 	 26,232 	 68.5% 	 78% 	 53% 	
